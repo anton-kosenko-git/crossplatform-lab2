@@ -1,2 +1,2 @@
 # crossplatform-lab2-gui
-Simple calculator with GUI and MVC architecture
+Simple calculator with GUI and CLI and MVC architecture
